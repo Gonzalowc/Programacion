@@ -18,7 +18,7 @@
 
 * **Ejercicio8-8:** Dibuja un triángulo creciente de asteriscos, del tamaño que indique el usuario. Por ejemplo, si escoge 4, el resultado debería ser:
   
-&ast
-&ast &ast
-&ast&ast&ast
-&ast&ast&ast&ast
+*
+**
+***
+****

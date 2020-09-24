@@ -1,4 +1,4 @@
-#U1T2 - Pseudocódigo: Variables
+# U1T2 - Pseudocódigo: Variables
 * **Ejercicio3-1:** Crea un programa que escriba el resultado de multiplicar los dos números que introduzca el usuario
 
 * **Ejercicio3-2:** Crea un programa que calcule la superficie de un rectángulo a partir de su base y su altura, y que después muestre el valor de dicha superficie.
