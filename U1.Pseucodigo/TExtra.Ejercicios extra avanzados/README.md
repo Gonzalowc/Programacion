@@ -9,12 +9,19 @@
 >Pista: Para conseguir el número de horas, deberás truncar 624/60 para quedarte con su parte entera.
 
 ````
-**Ejemplo:** 624 minutos son 10 horas y 24 minutos.
+Ejemplo: 
+
+624 minutos son 10 horas y 24 minutos.
 ````
 
 * **Actividad 2:** Desarrolla un programa que simule el comportamiento de una moneda que tiras al aire. Debe mostrar aleatoriamente "cara" o "cruz". (random)
 
-* **Actividad 3:** Desarrolla un programa que pida un número, y luego escriba un menú con 3 opciones: 1-calcular el valor absoluto 2-calcular la raíz cuadrada 3- calcular el cuadrado de ese número. Según la opción que ingrese el usuario, debe calcularse una cosa u otra.
+* **Actividad 3:** Desarrolla un programa que pida un número, y luego escriba un menú con 3 opciones:
+>1-calcular el valor absoluto.<br>
+2-calcular la raíz cuadrada.<br>
+3- calcular el cuadrado de ese número. 
+
+Según la opción que ingrese el usuario, debe calcularse una cosa u otra.
 
 * **Actividad 4:** Escribe un algoritmo que calcule el sueldo semanal de un trabajador teniendo en cuenta lo siguiente:
 
