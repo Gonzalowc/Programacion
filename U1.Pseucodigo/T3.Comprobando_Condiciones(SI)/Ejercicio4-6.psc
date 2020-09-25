@@ -9,12 +9,12 @@ Proceso sin_titulo
 	Escribir "INtroduce el tercer numero"
 	leer n3
 	Si n1>n2 Y n1>n3 Entonces
-		Escribir "El numero más grande es: " n1
+		Escribir "El numero mas grande es: " n1
 	SiNo
-		Si n2>n1 Y n2>n3 Entonces
-			Escribir "El numero más grande es: " n2
+		Si n2>n3 Entonces
+			Escribir "El numero mas grande es: " n2
 		SiNo
-			Escribir "El numero más grande es: " n3
+			Escribir "El numero mas grande es: " n3
 		Fin Si
 	Fin Si
 FinProceso

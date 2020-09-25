@@ -1,10 +1,10 @@
 Proceso sin_titulo
-	Definir DIVISOR Como Entero
-	Definir DIVIDENDO Como Entero
+	Definir DIVISOR Como Real
+	Definir DIVIDENDO Como Real
 	
-	DIVISOR<-37
-	DIVIDENDO<-5
+	DIVIDENDO<-37
+	DIVISOR<-5
 	
-	Escribir "la división entre ", DIVISOR, " y ", DIVIDENDO, " es:"
-	Escribir DIVISOR / DIVIDENDO
+	Escribir "la division entre ", DIVIDENDO, " y ", DIVISOR, " es:"
+	Escribir DIVIDENDO / DIVISOR
 FinProceso
