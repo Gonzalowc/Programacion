@@ -38,3 +38,14 @@ El sueldo semanal que le corresponde es de 360
 Introduzca el número de horas trabajadas durante la semana: 50
 El sueldo semanal que le corresponde es de 550
 ````
+
+* **Actividad 5:** Un colegio desea saber qué porcentaje de niños y qué porcentaje de niñas hay en el curso actual.
+	//Diseñar un algoritmo para este propósito *(recuerda que para calcular el porcentaje puedes hacer una regla de 3)*.
+
+* **Actividad 6:** Una tienda ofrece un descuento del 15% sobre el total de la compra durante el mes de octubre. Dado un mes y un importe, calcular cuál es la cantidad que se debe cobrar al cliente.
+
+* **Actividad 7:** Realizar un algoritmo que dado un número entero, visualice en pantalla si es par o impar. En el caso de ser 0, debe visualizar *“el número no es par ni impar”* (para que un numero sea par, se debe dividir entre dos y que su resto sea 0)
+  
+* **Actividad 7 Variante:** Modificar el algoritmo anterior, de forma que si se teclea un cero, se vuelva a pedir el número por teclado *(así hasta que se teclee un número mayor que cero) (recuerda la estructura mientras).* 
+
+
