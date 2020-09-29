@@ -17,8 +17,9 @@
 * **Ejercicio8-7:** A partir del ejemplo que dibuja un rectángulo de asteriscos, crea un que dibuje un cuadrado (deberá pedir sólo un dato, el lado, y ambas órdenes "para" deberán tener ese valor como límite).
 
 * **Ejercicio8-8:** Dibuja un triángulo creciente de asteriscos, del tamaño que indique el usuario. Por ejemplo, si escoge 4, el resultado debería ser:
-  
-\*
-\*\*
-\*\*\*
-\*\*\*\*
+```` 
+*
+**
+***
+****
+````
