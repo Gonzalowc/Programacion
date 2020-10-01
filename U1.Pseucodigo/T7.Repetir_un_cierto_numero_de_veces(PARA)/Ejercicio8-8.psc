@@ -4,7 +4,7 @@ Proceso sin_titulo
 	
 	Escribir "Introduce la cantidad de filas"
 	leer alto
-	ancho = 1
+	ancho<-1
 	asterisco<-""
 		Mientras ancho<=alto Hacer
 			asterisco<-Concatenar(asterisco,"*")
