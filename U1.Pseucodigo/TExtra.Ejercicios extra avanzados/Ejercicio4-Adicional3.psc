@@ -2,13 +2,13 @@ Proceso sin_titulo
 	Definir opciom Como Entero
 	definir valorr, resultado Como Real
 	
-	Escribir "Introduzca el número"
+	Escribir "Introduzca el numero"
 	Leer valorr
 	
-	Escribir "¿Que desea hacerle al numero? Escriba:"
+	Escribir "Que desea hacerle al numero? Escriba:"
 	Escribir " 1 : calcular el valor absoluto"
-	Escribir " 2 : calcular la raíz cuadrada"
-	Escribir " 3 : calcular el cuadrado de ese número"
+	Escribir " 2 : calcular la raiz cuadrada"
+	Escribir " 3 : calcular el cuadrado de ese numero"
 	Leer opciom
 	
 	Segun opciom Hacer
