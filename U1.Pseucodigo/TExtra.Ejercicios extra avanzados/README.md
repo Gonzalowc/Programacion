@@ -17,10 +17,11 @@ Ejemplo:
 * **Actividad 2:** Desarrolla un programa que simule el comportamiento de una moneda que tiras al aire. Debe mostrar aleatoriamente "cara" o "cruz". (random)
 
 * **Actividad 3:** Desarrolla un programa que pida un número, y luego escriba un menú con 3 opciones:
->1-calcular el valor absoluto.<br>
-2-calcular la raíz cuadrada.<br>
-3- calcular el cuadrado de ese número. 
-
+````
+1 - Calcular el valor absoluto.
+2 - Calcular la raíz cuadrada.
+3 -Calcular el cuadrado de ese número. 
+````
 Según la opción que ingrese el usuario, debe calcularse una cosa u otra.
 
 * **Actividad 4:** Escribe un algoritmo que calcule el sueldo semanal de un trabajador teniendo en cuenta lo siguiente:
@@ -44,7 +45,7 @@ El sueldo semanal que le corresponde es de 550
 
 * **Actividad 6:** Una tienda ofrece un descuento del 15% sobre el total de la compra durante el mes de octubre. Dado un mes y un importe, calcular cuál es la cantidad que se debe cobrar al cliente.
 
-* **Actividad 7:** Realizar un algoritmo que dado un número entero, visualice en pantalla si es par o impar. En el caso de ser 0, debe visualizar *“el número no es par ni impar”* (para que un numero sea par, se debe dividir entre dos y que su resto sea 0)
+* **Actividad 7:** Realizar un algoritmo que dado un número entero, visualice en pantalla si es par o impar. En el caso de ser 0, debe visualizar ***“el número no es par ni impar”*** *(para que un numero sea par, se debe dividir entre dos y que su resto sea 0)*
   
 * **Actividad 7 Variante:** Modificar el algoritmo anterior, de forma que si se teclea un cero, se vuelva a pedir el número por teclado *(así hasta que se teclee un número mayor que cero) (recuerda la estructura mientras).* 
 
