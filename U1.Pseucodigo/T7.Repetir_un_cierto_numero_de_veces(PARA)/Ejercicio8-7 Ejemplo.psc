@@ -1,4 +1,4 @@
-Proceso sin_titulo
+Proceso ejercicio8_7_ejemplo
 	Definir lado Como Real
 	Definir fila, columna Como Entero
 	

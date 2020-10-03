@@ -1,7 +1,7 @@
-Proceso sin_titulo
+Proceso ejercicio8_8_variable
 	Definir tam,x,i Como Entero
 	
-	Escribir "Introduce el tamaño de la figura triangular"
+	Escribir "Introduce el tamanio de la figura triangular"
 	leer tam
 	
 	Para x<-1 hasta tam Hacer

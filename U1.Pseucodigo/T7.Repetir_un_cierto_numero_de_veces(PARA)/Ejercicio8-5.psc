@@ -1,4 +1,4 @@
-Proceso sin_titulo
+Proceso ejercicio8_5
 	Definir i Como Entero
 	Escribir "Tabla del 5"
 	Para i<-0 Hasta 10 Con Paso 1 Hacer

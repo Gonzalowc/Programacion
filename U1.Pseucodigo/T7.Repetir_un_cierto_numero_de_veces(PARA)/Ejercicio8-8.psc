@@ -1,4 +1,4 @@
-Proceso sin_titulo
+Proceso ejercicio8_8
 	definir ancho, alto como Entero
 	definir asterisco Como Caracter
 	

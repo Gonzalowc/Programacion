@@ -1,4 +1,4 @@
-Proceso sin_titulo
+Proceso ejercicio8_7
 	Definir ancho, alto Como Real
 	Definir fila, columna Como Entero
 	
