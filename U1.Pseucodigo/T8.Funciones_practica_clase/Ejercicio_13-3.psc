@@ -1,5 +1,4 @@
  SubProceso result<-esPar(num)
-	//Definir result Como logico
 	Escribir Sin Saltar "¿El numero " num " es par? "
 	Si num%2=0 Entonces
 		result<-Verdadero
@@ -7,14 +6,12 @@
 		result<-Falso
 	Fin Si
 Fin SubProceso
-//https://www.aprendeaprogramar.com/cursos/verApartado.php?id=2012
+
 Proceso _12_3
 	Definir num Como Entero
-	
 	repetir
 	Escribir "Introduce numero para saber si es par o impar"
 	Leer num
 	Escribir esPar(num)
 	Hasta Que num=0
-	
 FinProceso
