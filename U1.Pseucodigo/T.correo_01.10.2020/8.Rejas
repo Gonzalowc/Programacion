@@ -1,0 +1,15 @@
+Proceso sin_titulo
+	definir num, i Como Entero
+	Repetir
+		Escribir "Introduce el numero de filas. Mayor que 3 e impar"
+		leer num
+	Hasta Que num%2=1 Y num>3
+	
+	Para i<-0 Hasta num-1 Hacer
+		si i%2=0 entonces
+			Escribir "******"
+		SiNo
+			Escribir "*    *"
+		FinSi
+	Fin Para
+FinProceso
