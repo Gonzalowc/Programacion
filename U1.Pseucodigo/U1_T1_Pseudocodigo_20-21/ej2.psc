@@ -11,7 +11,6 @@ Proceso sin_titulo
 		cad<-num/10
 		num<-trunc(cad)
 		cad<-cad-trunc(cad)
-		Escribir "cad: " cad "//"
 		cad2<-cad2*10+(cad*10)
 		cad2<-redon(cad2)
 	Fin Mientras

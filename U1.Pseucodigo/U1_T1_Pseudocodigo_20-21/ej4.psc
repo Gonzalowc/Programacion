@@ -35,6 +35,7 @@ Proceso ejercicio4
 				
 			SiNo
 				si cont>0 Entonces
+					Escribir "Has introducido " cont " numero no primos."
 					Escribir "Media: " suma/cont 
 					Escribir "Suma : " suma 
 					Escribir "Min  : " min 
