@@ -49,4 +49,12 @@ El sueldo semanal que le corresponde es de 550
   
 * **Actividad 7 Variante:** Modificar el algoritmo anterior, de forma que si se teclea un cero, se vuelva a pedir el número por teclado *(así hasta que se teclee un número mayor que cero) (recuerda la estructura mientras).* 
 
+* **Actividad 8:** Pedir un numero y decir si es multiplo de 8. Pedir al usuario un numero y que salgan los 8 primeros numeros de 8
 
+* **Actividad 9:** Realizar un algoritmo que haga un cuadrado de asteriscos con el centro espaciado
+
+* **Actividad 10:** Realiza un agoritmo para hallar el factorial de cualquier número.
+
+ * **Actividad 11:**  Hallar Aumento al Sueldo de un empleado; si el sueldo es mayor a $500.000 su aumento será del 12%, pero si su sueldo es menor El aumento será del 15%.
+  
+ * **Actividad 12:** Realiza un programa que convierta cualquier numero decimal a numero binario.

@@ -1,6 +1,5 @@
 Proceso sin_titulo
-	//pedir un numero y decir si es multiplo de 8
-	//pedir al usuario un numero y que salgan los 8 primeros numeros de 8
+	//
 	Definir multiplos Como Entero
 	Definir num Como Real
 	Escribir "Escribe un numero para empezar a buscar"
