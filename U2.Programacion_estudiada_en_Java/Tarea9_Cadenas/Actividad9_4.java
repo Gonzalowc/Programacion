@@ -12,9 +12,9 @@ public class Actividad9_4 {
 
         System.out.printf("Introduce una frase: ");
         cad = sc.nextLine();
-        num = (int)Math.floor((cad.length()-1)/2);
-        caracter = cad.charAt((int)num);
-        cad2= cad2+caracter;
+        num = (int)Math.floor((cad.length()-1)/2);//valor numerico
+        caracter = cad.charAt((int)num);//caracter en ese valor
+        cad2= cad2+caracter;//caracter lo meto en una cadena vacia para no comparar un numero con cadena
         if(cad2.equals(" ")){
             System.out.println("El caracter del medio es un espacio");
         }else{

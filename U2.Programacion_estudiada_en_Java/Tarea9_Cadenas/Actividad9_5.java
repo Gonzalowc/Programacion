@@ -6,14 +6,12 @@ public class Actividad9_5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        String cad,javalin, javalen;
+        String cad;
+        final String javalin="javalín, javalón   ", javalen="   javalen, len, len";
         int valor;
 
         System.out.printf("Introduce la frase: ");
         cad = sc.nextLine();
-
-        javalin = "javalín, javalón   ";
-        javalen = "   javalen, len, len";
 
         if(cad.indexOf(javalin)==0){
             valor = cad.lastIndexOf("   ");

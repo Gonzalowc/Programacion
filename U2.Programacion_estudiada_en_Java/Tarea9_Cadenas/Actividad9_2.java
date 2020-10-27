@@ -12,13 +12,12 @@ public class Actividad9_2 {
         cad1 = sc.nextLine();
         cad1 = cad1.toLowerCase();
         System.out.println("JUGADOR 2: Pista: ");
-        System.out.println("          Número de carácteres: "+ cad1.length());
-        System.out.println("          Primera letra       : "+ cad1.charAt(0));
-        System.out.println("          Última  letra       : "+ cad1.charAt(cad1.length()-1));
+        System.out.println("           Número de carácteres: "+ cad1.length());
+        System.out.println("           Primera letra       : "+ cad1.charAt(0));
+        System.out.println("           Última  letra       : "+ cad1.charAt(cad1.length()-1));
         System.out.printf("JUGADOR 2: Introduce la contraseña: ");
         cad2 = sc.nextLine();
-        cad2 = cad2.toLowerCase();
-        if(cad1.equals(cad1)){
+        if(cad1.equalsIgnoreCase(cad2)){
             System.out.println("Acertaste!");
         }else{
             System.out.println("Fallaste");

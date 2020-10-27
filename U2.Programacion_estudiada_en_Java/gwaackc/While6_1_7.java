@@ -7,7 +7,7 @@ public class While6_1_7 {
         Scanner sc = new Scanner(System.in);
 
         int n1=0,n2;
-        System.out.printf("Introduzca un numero para escribir su equivalencia en asteriscos: ");
+        System.out.print("Introduzca un numero para escribir su equivalencia en asteriscos: ");
         n2 = sc.nextInt();
         while(n1++<n2){
             System.out.print("*");
