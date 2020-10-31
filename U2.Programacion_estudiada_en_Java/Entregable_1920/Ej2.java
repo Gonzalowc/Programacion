@@ -14,6 +14,7 @@ public class Ej2 {
 
         while(numaux!=0){
             vuelta=vuelta*10+(numaux%10);
+            System.out.println(vuelta);
             numaux=numaux/10;
         }
         if(num==vuelta){

@@ -14,7 +14,7 @@ public class Ej5 {
             cadena = cadena.substring(0,10);
         }
 
-        for (int i = 0; i <= (cadena.length()-1); i++) {//altura superior
+        for (int i = 0; i < (cadena.length()); i++) {//altura superior
             for (int j = 0; j < cadena.length()-i-1; j++) {//espacios
                 System.out.print(" ");
             }

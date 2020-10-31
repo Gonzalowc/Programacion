@@ -16,7 +16,7 @@ public class Ej4 {
         } while(h<3 || h%2==0);
 
         for (int i = 0; i < h; i++) {//altura flecha
-            if(i<=h/2){//altura parte inferior
+            if(i<=h/2){//altura parte superior
                 espacios=(h/2)-i;
                 for (int j = 0; j < espacios; j++) {//añadir espacios
                     System.out.print("  ");
