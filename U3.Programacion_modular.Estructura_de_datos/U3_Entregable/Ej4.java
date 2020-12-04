@@ -7,6 +7,7 @@ public class Ej4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int altura,anchura;
+
         do{
             System.out.println("Introduce la altura");
             altura=sc.nextInt();
@@ -19,10 +20,33 @@ public class Ej4 {
         int[][] vector;
         vector = arrayBidiSinRepetidos(altura,anchura);
 
-        for (int i = 0; i <vector.length ; i++) {
-            System.out.println(Arrays.toString(vector[i]));
+        maxYmin(vector);
 
+
+    }
+
+    public static void maxYmin(int[][] v){
+        String mensajeMin = "", mensajeMax="";
+        int min=0, max=0;
+
+        for (int i = 0; i <v.length ; i++) {
+            for (int j = 0; j < v[0].length; j++) {
+                if(i==0 && j==0){
+                  min=v[0][0];
+                  max=v[0][0];
+                }
+                if(max<v[i][j]){
+                    max=v[i][j];
+                    mensajeMax="["+i+"]"+"["+j+"]";
+                }
+                if(min>v[i][j]){
+                    min=v[i][j];
+                    mensajeMin="["+i+"]"+"["+j+"]";
+                }
+            }
         }
+        System.out.println("Posición minimo: "+mensajeMin);
+        System.out.println("Posición maximo: "+mensajeMax);
     }
     public static int[][] arrayBidiSinRepetidos(int anchura, int altura){
 
