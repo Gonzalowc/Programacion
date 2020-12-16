@@ -115,14 +115,20 @@ Ejemplo 3
   * Escribe un programa que pida 20 números enteros. Estos números se deben
     introducir en un array de 4 filas por 5 columnas. El programa mostrará las sumas parciales de filas y columnas igual que si de una hoja de cálculo se tratara. La suma total debe aparecer en la esquina inferior derecha.
   * Modifica el programa anterior de tal forma que las sumas parciales y la suma total aparezcan en la pantalla con un pequeño retardo, dando la impresión de que el ordenador se queda “pensando” antes de mostrar los números.
+  
 * **Pag133_Ejercicio74AB_Ej9**
   Realiza un programa que sea capaz de rotar todos los elementos de una matriz cuadrada una posición en el sentido de las agujas del reloj. La matriz debe tener 12 filas por 12 columnas y debe contener números generados al azar entre 0 y 100. Se debe mostrar tanto la matriz original como la matriz resultado, ambas con los números convenientemente alineados.
 
 * **Pag133_Ejercicio74AB_Ej10**
-  
+  Realiza el juego de las tres en raya
+
 * **Pag133_Ejercicio74AB_Ej13**
-
-
+    Realiza un programa que calcule la estatura media, mínima y máxima en
+    centímetros de personas de diferentes países. El array que contiene los
+    nombres de los paises es el siguiente: ***pais = {“España”, “Rusia”, “Japón", “Australia”}***. Los datos sobre las estaturas se deben simular mediante un array de 4 filas por 10 columnas con números aleatorios generados al azar entre 140 y 210. Los decimales de la media se pueden despreciar. Los nombres de los países se deben mostrar utilizando el array de países (no se pueden escribir directamente).
   
+  Ejemplo
+
+  ![Imagen Ejercicio 1 Bidimensional libro](.\IMG\EjAB13.png)
 
    
