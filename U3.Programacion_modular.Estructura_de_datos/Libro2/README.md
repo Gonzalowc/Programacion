@@ -37,7 +37,7 @@
 
     Ejemplo
 
-    ![Imagen Ejercicio 11 libro](.\IMG\eJ11.png)
+    ![Imagen Ejercicio 11 libro](/IMG/eJ11.png)
 
 * **Pag122_Ejercicio74_Ej12**
 Realiza un programa que pida 10 números por teclado y que los almacene en
