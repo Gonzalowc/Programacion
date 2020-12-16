@@ -37,7 +37,7 @@
 
     Ejemplo
 
-    ![Imagen Ejercicio 11 libro](.\IMG\eJ11.png)
+    ![Imagen Ejercicio 11 libro](.\IMG\Ej11.png)
 
 * **Pag122_Ejercicio74_Ej12**
 Realiza un programa que pida 10 números por teclado y que los almacene en
@@ -48,7 +48,7 @@ Ejemplo:
 inicial = 3 
 final = 7
 ````
-![Imagen Ejercicio 12 libro](.\IMG\eJ12.png)
+![Imagen Ejercicio 12 libro](.\IMG\Ej12.png)
 
 * **Pag126_Ejercicio74_Ej18**
 Realiza un programa que genere 10 números enteros aleatorios entre 0 y 200
@@ -61,15 +61,15 @@ números que queden.
 
 Ejemplo 1
 
-![Imagen Ejercicio 18-1 libro](.\IMG\eJ18-1.png)
+![Imagen Ejercicio 18-1 libro](.\IMG\Ej18-1.png)
 
 Ejemplo 2
 
-![Imagen Ejercicio 18-1 libro](.\IMG\eJ18-2.png)
+![Imagen Ejercicio 18-1 libro](.\IMG\Ej18-2.png)
 
 Ejemplo 3
 
-![Imagen Ejercicio 18-1 libro](.\IMG\eJ18-3.png)
+![Imagen Ejercicio 18-1 libro](.\IMG\Ej18-3.png)
 
 * **Pag127_Ejercicio74_Ej19**
     Realiza un programa que sea capaz de insertar un número en una posición
@@ -77,33 +77,33 @@ Ejemplo 3
 
     Ejemplo 1
 
-    ![Imagen Ejercicio 19-1 libro](.\IMG\eJ19-1.png)
+    ![Imagen Ejercicio 19-1 libro](.\IMG\Ej19-1.png)
 
     Ejemplo 2
 
-    ![Imagen Ejercicio 19-2 libro](.\IMG\eJ19-2.png)
+    ![Imagen Ejercicio 19-2 libro](.\IMG\Ej19-2.png)
 
     Ejemplo 3
 
-    ![Imagen Ejercicio 19-3 libro](.\IMG\eJ19-3.png)
+    ![Imagen Ejercicio 19-3 libro](.\IMG\Ej19-3.png)
 
 * **Pag128_Ejercicio74_Ej20**
     Implementa un programa que calcule la denominación ordinal de los reyes de una secuencia histórica. El programa solicitará la cantidad de reyes que se van a introducir, y a continuación recibirá los nombres de los reyes. Presentará por pantalla dichos nombres, pero colocándoles el ordinal correspondiente. Así, por ejemplo, si hay dos Felipes en los nombres de los reyes, el primero debería aparecer como Felipe 1º y el segundo como Felipe 2º.
 
     Ejemplo 1
 
-    ![Imagen Ejercicio 20-1 libro](.\IMG\eJ20-1.png)
+    ![Imagen Ejercicio 20-1 libro](.\IMG\Ej20-1.png)
 
     Ejemplo 2
 
-    ![Imagen Ejercicio 20-2 libro](.\IMG\eJ20-2.png)
+    ![Imagen Ejercicio 20-2 libro](.\IMG\Ej20-2.png)
     
 * **Pag130_Ejercicio74_Ej21**
   Escribe un programa que rellene un array de 15 elementos con números enteros comprendidos entre 0 y 500 (ambos incluidos). A continuación, se mostrará el array “cincuerizado”, según el siguiente criterio: si el número que hay en una posición del array es múltiplo de 5, se deja igual, y si no, se cambia por el siguiente múltiplo de 5 que exista a partir de él.
 
   Ejemplo
 
-    ![Imagen Ejercicio 21 libro](.\IMG\eJ21.png)
+    ![Imagen Ejercicio 21 libro](.\IMG\Ej21.png)
 
 
 * **Pag131_Ejercicio74AB_Ej1**
